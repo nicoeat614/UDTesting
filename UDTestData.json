@@ -1,0 +1,388 @@
+[
+    {
+        "Name":  "100X The Money",
+        "Top Prize Odds":  "1 in 2,611,200",
+        "Any Prize Odds":  2.77,
+        "True Odds":  1.39,
+        "Game ID":  1697,
+        "Est Total Printed":  "7,833,600",
+        "Est Total Sold":  "958,155",
+        "Est Total Left":  "6,875,445",
+        "Info":  [
+                     {
+                         "Prize":  "$4,276,115",
+                         "At Start":  "3",
+                         "Remain":  "3",
+                         "Initial Odds":  "2,611,200",
+                         "Adjusted Odds":  2291815
+                     },
+                     {
+                         "Prize":  "$500,000",
+                         "At Start":  "3",
+                         "Remain":  "3",
+                         "Initial Odds":  "2,611,200",
+                         "Adjusted Odds":  2291815
+                     },
+                     {
+                         "Prize":  "$50,000",
+                         "At Start":  "6",
+                         "Remain":  "5",
+                         "Initial Odds":  "1,305,600",
+                         "Adjusted Odds":  1375089
+                     },
+                     {
+                         "Prize":  "$20,000",
+                         "At Start":  "10",
+                         "Remain":  "10",
+                         "Initial Odds":  "783,360",
+                         "Adjusted Odds":  687544.5
+                     },
+                     {
+                         "Prize":  "$4,000",
+                         "At Start":  "250",
+                         "Remain":  "219",
+                         "Initial Odds":  31334.4,
+                         "Adjusted Odds":  31394.73
+                     },
+                     {
+                         "Prize":  "$600",
+                         "At Start":  "4,940",
+                         "Remain":  "4,319",
+                         "Initial Odds":  1585.75,
+                         "Adjusted Odds":  1591.91
+                     },
+                     {
+                         "Prize":  "$500",
+                         "At Start":  "30,995",
+                         "Remain":  "27,207",
+                         "Initial Odds":  252.74,
+                         "Adjusted Odds":  252.71
+                     },
+                     {
+                         "Prize":  "$300",
+                         "At Start":  "11,229",
+                         "Remain":  "9,864",
+                         "Initial Odds":  697.62,
+                         "Adjusted Odds":  697.02
+                     },
+                     {
+                         "Prize":  "$200",
+                         "At Start":  "40,771",
+                         "Remain":  "35,772",
+                         "Initial Odds":  192.14,
+                         "Adjusted Odds":  192.2
+                     },
+                     {
+                         "Prize":  "$100",
+                         "At Start":  "391,111",
+                         "Remain":  "343,139",
+                         "Initial Odds":  20.03,
+                         "Adjusted Odds":  20.04
+                     },
+                     {
+                         "Prize":  "$60",
+                         "At Start":  "625,878",
+                         "Remain":  "549,176",
+                         "Initial Odds":  12.52,
+                         "Adjusted Odds":  12.52
+                     },
+                     {
+                         "Prize":  "$50",
+                         "At Start":  "312,688",
+                         "Remain":  "274,467",
+                         "Initial Odds":  25.05,
+                         "Adjusted Odds":  25.05
+                     },
+                     {
+                         "Prize":  "$40",
+                         "At Start":  "234,767",
+                         "Remain":  "206,062",
+                         "Initial Odds":  33.37,
+                         "Adjusted Odds":  33.37
+                     },
+                     {
+                         "Prize":  "$30",
+                         "At Start":  "1,173,333",
+                         "Remain":  "1,030,082",
+                         "Initial Odds":  6.68,
+                         "Adjusted Odds":  6.67
+                     },
+                     {
+                         "Prize":  "$4,276,115",
+                         "At Start":  "3",
+                         "Remain":  "3",
+                         "Initial Odds":  "2,611,200",
+                         "Adjusted Odds":  2291815
+                     },
+                     {
+                         "Prize":  "$500,000",
+                         "At Start":  "3",
+                         "Remain":  "3",
+                         "Initial Odds":  "2,611,200",
+                         "Adjusted Odds":  2291815
+                     },
+                     {
+                         "Prize":  "$50,000",
+                         "At Start":  "6",
+                         "Remain":  "5",
+                         "Initial Odds":  "1,305,600",
+                         "Adjusted Odds":  1375089
+                     },
+                     {
+                         "Prize":  "$20,000",
+                         "At Start":  "10",
+                         "Remain":  "10",
+                         "Initial Odds":  "783,360",
+                         "Adjusted Odds":  687544.5
+                     },
+                     {
+                         "Prize":  "$4,000",
+                         "At Start":  "250",
+                         "Remain":  "219",
+                         "Initial Odds":  31334.4,
+                         "Adjusted Odds":  31394.73
+                     },
+                     {
+                         "Prize":  "$600",
+                         "At Start":  "4,940",
+                         "Remain":  "4,319",
+                         "Initial Odds":  1585.75,
+                         "Adjusted Odds":  1591.91
+                     },
+                     {
+                         "Prize":  "$500",
+                         "At Start":  "30,995",
+                         "Remain":  "27,207",
+                         "Initial Odds":  252.74,
+                         "Adjusted Odds":  252.71
+                     },
+                     {
+                         "Prize":  "$300",
+                         "At Start":  "11,229",
+                         "Remain":  "9,864",
+                         "Initial Odds":  697.62,
+                         "Adjusted Odds":  697.02
+                     },
+                     {
+                         "Prize":  "$200",
+                         "At Start":  "40,771",
+                         "Remain":  "35,772",
+                         "Initial Odds":  192.14,
+                         "Adjusted Odds":  192.2
+                     },
+                     {
+                         "Prize":  "$100",
+                         "At Start":  "391,111",
+                         "Remain":  "343,139",
+                         "Initial Odds":  20.03,
+                         "Adjusted Odds":  20.04
+                     },
+                     {
+                         "Prize":  "$60",
+                         "At Start":  "625,878",
+                         "Remain":  "549,176",
+                         "Initial Odds":  12.52,
+                         "Adjusted Odds":  12.52
+                     },
+                     {
+                         "Prize":  "$50",
+                         "At Start":  "312,688",
+                         "Remain":  "274,467",
+                         "Initial Odds":  25.05,
+                         "Adjusted Odds":  25.05
+                     },
+                     {
+                         "Prize":  "$40",
+                         "At Start":  "234,767",
+                         "Remain":  "206,062",
+                         "Initial Odds":  33.37,
+                         "Adjusted Odds":  33.37
+                     },
+                     {
+                         "Prize":  "$30",
+                         "At Start":  "1,173,333",
+                         "Remain":  "1,030,082",
+                         "Initial Odds":  6.68,
+                         "Adjusted Odds":  6.67
+                     }
+                 ]
+    },
+    {
+        "Name":  "Extreme Millions",
+        "Top Prize Odds":  "1 in 2,937,600",
+        "Any Prize Odds":  2.97,
+        "True Odds":  2.98,
+        "Game ID":  1841,
+        "Est Total Printed":  "11,750,400",
+        "Est Total Sold":  "3,507,432",
+        "Est Total Left":  "8,242,968",
+        "Info":  [
+                     {
+                         "Prize":  "$10,000,000",
+                         "At Start":  "4",
+                         "Remain":  "2",
+                         "Initial Odds":  "2,937,600",
+                         "Adjusted Odds":  4121484
+                     },
+                     {
+                         "Prize":  "$1,000,000",
+                         "At Start":  "12",
+                         "Remain":  "8",
+                         "Initial Odds":  "979,200",
+                         "Adjusted Odds":  1030371
+                     },
+                     {
+                         "Prize":  "$20,000",
+                         "At Start":  "13",
+                         "Remain":  "9",
+                         "Initial Odds":  903876.92,
+                         "Adjusted Odds":  915885.33
+                     },
+                     {
+                         "Prize":  "$4,000",
+                         "At Start":  "180",
+                         "Remain":  "124",
+                         "Initial Odds":  "65,280",
+                         "Adjusted Odds":  66475.55
+                     },
+                     {
+                         "Prize":  "$500",
+                         "At Start":  "3,185",
+                         "Remain":  "2,250",
+                         "Initial Odds":  3689.29,
+                         "Adjusted Odds":  3663.54
+                     },
+                     {
+                         "Prize":  "$300",
+                         "At Start":  "3,087",
+                         "Remain":  "2,165",
+                         "Initial Odds":  3806.41,
+                         "Adjusted Odds":  3807.38
+                     },
+                     {
+                         "Prize":  "$200",
+                         "At Start":  "188,597",
+                         "Remain":  "132,376",
+                         "Initial Odds":  62.3,
+                         "Adjusted Odds":  62.27
+                     },
+                     {
+                         "Prize":  "$100",
+                         "At Start":  "943,524",
+                         "Remain":  "662,935",
+                         "Initial Odds":  12.45,
+                         "Adjusted Odds":  12.43
+                     },
+                     {
+                         "Prize":  "$60",
+                         "At Start":  "355,870",
+                         "Remain":  "250,900",
+                         "Initial Odds":  33.02,
+                         "Adjusted Odds":  32.85
+                     },
+                     {
+                         "Prize":  "$50",
+                         "At Start":  "356,019",
+                         "Remain":  "250,998",
+                         "Initial Odds":  33,
+                         "Adjusted Odds":  32.84
+                     },
+                     {
+                         "Prize":  "$40",
+                         "At Start":  "345,708",
+                         "Remain":  "241,013",
+                         "Initial Odds":  33.99,
+                         "Adjusted Odds":  34.2
+                     },
+                     {
+                         "Prize":  "$30",
+                         "At Start":  "1,747,261",
+                         "Remain":  "1,223,578",
+                         "Initial Odds":  6.73,
+                         "Adjusted Odds":  6.74
+                     }
+                 ]
+    },
+    {
+        "Name":  "$250 000 Money Mania",
+        "Top Prize Odds":  "1 in 367,200",
+        "Any Prize Odds":  3,
+        "True Odds":  3.01,
+        "Game ID":  1837,
+        "Est Total Printed":  "3,672,000",
+        "Est Total Sold":  "1,891,751",
+        "Est Total Left":  "1,780,249",
+        "Info":  [
+                     {
+                         "Prize":  "$250,000",
+                         "At Start":  "10",
+                         "Remain":  "5",
+                         "Initial Odds":  "367,200",
+                         "Adjusted Odds":  356049.8
+                     },
+                     {
+                         "Prize":  "$1,000",
+                         "At Start":  "14,895",
+                         "Remain":  "7,367",
+                         "Initial Odds":  246.53,
+                         "Adjusted Odds":  241.65
+                     },
+                     {
+                         "Prize":  "$500",
+                         "At Start":  "972",
+                         "Remain":  "465",
+                         "Initial Odds":  3777.78,
+                         "Adjusted Odds":  3828.49
+                     },
+                     {
+                         "Prize":  "$200",
+                         "At Start":  "2,623",
+                         "Remain":  "1,261",
+                         "Initial Odds":  1399.92,
+                         "Adjusted Odds":  1411.78
+                     },
+                     {
+                         "Prize":  "$100",
+                         "At Start":  "87,048",
+                         "Remain":  "42,042",
+                         "Initial Odds":  42.18,
+                         "Adjusted Odds":  42.34
+                     },
+                     {
+                         "Prize":  "$50",
+                         "At Start":  "45,907",
+                         "Remain":  "22,175",
+                         "Initial Odds":  79.99,
+                         "Adjusted Odds":  80.28
+                     },
+                     {
+                         "Prize":  "$40",
+                         "At Start":  "91,418",
+                         "Remain":  "44,238",
+                         "Initial Odds":  40.17,
+                         "Adjusted Odds":  40.24
+                     },
+                     {
+                         "Prize":  "$30",
+                         "At Start":  "60,968",
+                         "Remain":  "29,563",
+                         "Initial Odds":  60.23,
+                         "Adjusted Odds":  60.22
+                     },
+                     {
+                         "Prize":  "$25",
+                         "At Start":  "365,758",
+                         "Remain":  "177,315",
+                         "Initial Odds":  10.04,
+                         "Adjusted Odds":  10.04
+                     },
+                     {
+                         "Prize":  "$20",
+                         "At Start":  "548,637",
+                         "Remain":  "266,191",
+                         "Initial Odds":  6.69,
+                         "Adjusted Odds":  6.69
+                     }
+                 ]
+    }
+]
